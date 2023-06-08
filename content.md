@@ -1,5 +1,9 @@
 class: center, middle
 
+# Brainstorming 
+
+---
+
 # Title
 
 ---
