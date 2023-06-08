@@ -2,6 +2,8 @@ class: center, middle
 
 # Brainstorming 
 
+<img src="/img/mind.png" width="500" height="300">
+
 ---
 
 # Title
