@@ -10,6 +10,16 @@ class: center, middle
 
 ---
 
+# Plan 
+
+- Introduction
+- Présentation de l’entreprise 
+- Activités réalisées 
+- Conclusion
+
+
+---
+
 # Agenda
 
 1. Introduction
