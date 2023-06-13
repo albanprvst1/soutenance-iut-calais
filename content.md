@@ -43,8 +43,10 @@ class: center, middle
 
 # BootCamp React Native 
 
+- Ma mission 
 - Qu'est ce que React ? 
-React Native est un framework open source qui permet de développer des applications mobiles pour iOS et Android en utilisant du code JavaScript.
+ > React Native est un framework open source qui permet de développer des **applications mobiles** pour **iOS et Android** en utilisant du code JavaScript. 
+
 ---
 
 # Activités réalisées 
