@@ -47,6 +47,18 @@ class: center, middle
 
 ---
 
+# Activités réalisées 
+
+- Marketing 
+
+---
+
+# Marketing 
+
+- Displate 
+
+---
+
 # A typical day in a Developer at weshipit.today
 
 - The journey from taking a new issue on GitHub to production
