@@ -17,6 +17,21 @@ class: center, middle
 - Activités réalisées 
 - Conclusion
 
+---
+
+# Introduction
+
+- Objectif du stage 
+- Recherche de l’entreprise 
+
+
+---
+
+# Présentation de l'entreprise 
+
+- Recherche de l’entreprise 
+- We Ship It Today 
+
 
 ---
 
