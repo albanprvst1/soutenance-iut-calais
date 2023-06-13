@@ -35,12 +35,23 @@ class: center, middle
 
 ---
 
-# Agenda
+# Activités réalisées 
 
-1. Introduction
-2. Deep-dive
-3. ...
+- BootCamp React Native 
 
 ---
+
+# Activités réalisées 
+
+- Certification GraphQL
+
+---
+
+# A typical day in a Developer at weshipit.today
+
+- The journey from taking a new issue on GitHub to production
+
+---
+
 
 # Introduction
