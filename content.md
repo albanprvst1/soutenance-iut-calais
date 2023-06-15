@@ -57,11 +57,11 @@ class: center, middle
 
 # Activités réalisées 
 
-- Marketing 
+- BootCamp ECV 
 
 ---
 
-# Marketing 
+# BooCamp React ECV 
 
 - Displate 
 
