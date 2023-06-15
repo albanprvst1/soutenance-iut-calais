@@ -49,6 +49,20 @@ class: center, middle
 
 ---
 
+# BootCamp React Native 
+
+- Road To React 
+<img src="/img/roadtoreact.png" width="500" height="300">
+
+---
+
+# BootCamp React Native 
+
+- Teacher Assisstant 
+<img src="/img/ecv.png" width="500" height="300">
+
+---
+
 # Activités réalisées 
 
 - Certification GraphQL
@@ -57,13 +71,13 @@ class: center, middle
 
 # Activités réalisées 
 
-- BootCamp ECV 
+- BootCamp React Native 
 
 ---
 
-# BooCamp React ECV 
+# BooCamp React Native 
 
-- Displate 
+
 
 ---
 
