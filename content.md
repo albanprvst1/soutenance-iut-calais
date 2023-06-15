@@ -52,6 +52,8 @@ class: center, middle
 # BootCamp React Native 
 
 - Road To React 
+
+
 <img src="/img/roadtoreact.png" width="500" height="300">
 
 ---
@@ -59,6 +61,8 @@ class: center, middle
 # BootCamp React Native 
 
 - Teacher Assisstant 
+
+
 <img src="/img/ecv.png" width="500" height="300">
 
 ---
