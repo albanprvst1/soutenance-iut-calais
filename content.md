@@ -74,6 +74,14 @@ class: center, middle
 
 ---
 
+# Présentation des outils 
+
+-  Notion 
+![Texte alternatif](file:///Users/alban/Documents/BUT2/Stage/soutenance-iut-calais/vid/notion.gif)
+
+
+---
+
 # A typical day in a Developer at weshipit.today
 
 - The journey from taking a new issue on GitHub to production
