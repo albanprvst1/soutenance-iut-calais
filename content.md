@@ -29,7 +29,6 @@ class: center, middle
 
 # Présentation de l'entreprise 
 
-- Recherche de l’entreprise 
 - We Ship It Today 
 
 
@@ -44,8 +43,9 @@ class: center, middle
 # BootCamp React Native 
 
 - Ma mission 
+
 - Qu'est ce que React ? 
- > React Native est un framework open source qui permet de développer des **applications mobiles** pour **iOS et Android** en utilisant du code JavaScript. 
+ > React Native est un framework open source qui permet de développer des **applications mobiles** pour **iOS et Android** en utilisant du code JavaScript.
 
 ---
 
@@ -70,18 +70,7 @@ class: center, middle
 # Activités réalisées 
 
 - Certification GraphQL
-
----
-
-# Activités réalisées 
-
-- BootCamp React Native 
-
----
-
-# BooCamp React Native 
-
-
+<img src="/img/graphql.png" width="500" height="300">
 
 ---
 
